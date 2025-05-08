@@ -2,9 +2,11 @@
 This project presents a visual performance analysis for Tickles Vintage in the year 2019, using key metrics and business dimensions to identify trends, highlight strong areas, and uncover improvement opportunities.
 Overview
 
-The dashboard compiles transactional data for Tickles Vintage, offering a full-year perspective on sales performance by product, region, salesperson, customer, and city. It serves as a strategic tool for evaluating operational efficiency and guiding data-driven decisions across departments.
+![DASHBOARD 5](https://github.com/user-attachments/assets/aa3adcbd-a9f8-403e-abd8-2b819b7f0ca2)
 
-Business Performance Overview
+The project compiles transactional data for Tickles Vintage, offering a full-year perspective on sales performance by product, region, salesperson, customer, and city. It serves as a strategic tool for evaluating operational efficiency and guiding data-driven decisions across departments.
+
+# Business Performance Overview
     Total Revenue: $436,036.16
     Top Salesperson: Nancy Freehafer ($104,242.34)
     Top Performing Company: Company D
@@ -13,7 +15,7 @@ Business Performance Overview
     Top Shipping City: New York ($67,180.50)
     Best Sales Month: December ($66,242.78)
 
-Key Insights
+# Key Insights
    1. Sales Trends:
         Sales peaked in December, aligning with typical year-end shopping behavior.
         A significant mid-year spike occurred in June, possibly due to promotions or seasonal demand.
@@ -35,7 +37,7 @@ Key Insights
         There’s a steep performance gap between top performers (Nancy, Anne) and others (e.g., Jan Kotas at $16,350.50).
         This may reflect disparities in client portfolios, sales training, or territory potential.
 
-Analysis
+# Analysis
 1.	Revenue is concentrated among a few top cities, customers, and products, suggesting potential revenue risk if any of these source’s decline.
 
 2.	Underperforming products and regions present areas for improvement through better marketing, bundling, or phase-out strategies.
@@ -44,7 +46,7 @@ Analysis
 
 4.	Seasonal variation (high sales in June and December) may imply the effectiveness of promotions or natural buying patterns.
 
-Final Recommendations
+# Final Recommendations
 	Strengthen Sales Enablement:
 Upskill underperforming sales reps using a training modelled on top performers.
 Re-evaluate territory assignments and incentive plans.
@@ -65,7 +67,7 @@ Align promotional activities with peak buying seasons (e.g., mid-year and year-e
 Leverage predictive analytics to identify future top customers and products.
 
 
-In Conclusion
+# In Conclusion
 This dashboard is ideal for:
 1.	Business Intelligence reviews
 2.	Monthly or quarterly sales meetings
